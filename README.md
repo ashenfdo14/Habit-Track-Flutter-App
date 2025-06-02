@@ -1,1 +1,3 @@
-# Habit-Track-Flutter-App
+# habit_tracker
+
+A new Flutter project.
